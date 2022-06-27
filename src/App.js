@@ -13,6 +13,8 @@ function App() {
     
        <Router>
       <div className="App">
+        <h1>The Tantara</h1>
+        <h3>19 Fevrier 1920</h3>
       <Navigation/>
       <div className="content">
         <Routes>
