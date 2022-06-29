@@ -58,7 +58,7 @@
 }
 
 .header h4 {
-  font-size: 1.4em;
+  font-size: 1.6em;
   background-color:#a3a2a2;
 }
 
@@ -69,5 +69,16 @@
   font-weight: 800;
   font-style: italic;
 } 
+
+.Affaires {
+  font-family: Montserrat;
+}
+
+.acheter {
+  font-size: large;
+  font-family: Montserrat;
+  margin: 1% 2%;
+
+}
 
 
