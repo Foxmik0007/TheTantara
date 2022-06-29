@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+@font-face {
+  font-family: Oregano;
+  src: url(../fonts/Oregano/Oregano-Regular.ttf);
+}
+
+@font-face {
+  font-family: Montserrat;
+  src: url(../fonts/Montserrat/static/Montserrat-Regular.ttf);
+}
+
+.header {
+  background-color:  #D9D9D9;
+  padding:2% 10%;
+  font-family: Montserrat;
+  font-style: italic;
+  font-weight: 900;
+   
+}
+
+.navbar {
+  background-color:#525252;
+  margin: 0 10%;
+  padding: 20%;
+}

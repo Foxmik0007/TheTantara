@@ -1,3 +1,7 @@
+import game from './images/gamr.png'
+import fashion from './images/fashion.PNG'
+import food from './images/food.PNG'
+
 const Affaires = () => {
     return (
         <div class="Affaires">
@@ -6,7 +10,7 @@ const Affaires = () => {
 
                     <div class="col-sm">
                         <h4>La recette du jour</h4>
-                        <img src="..." alt="img" />
+                        <img src={food} alt="img" width={200}/>
                         <h5>Lorem ipsum</h5>
                         <ul>
                             <li>Pandente itaque viam fatorum sorte tristissima</li>
@@ -29,7 +33,7 @@ const Affaires = () => {
 
                     <div class="col-sm">
                         <h4>Conseil de beauté</h4>
-                        <img src=".." alt="img" />
+                        <img src={fashion} alt="img" width={300} />
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut laboreLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
                         <br></br>
@@ -47,7 +51,7 @@ const Affaires = () => {
 
                     <div class="col-sm">
                         <h4>Jeux</h4>
-                        <img src=".." alt="img"></img>
+                        <img src={game} alt="img" width="600"></img>
                         <h5>Règle du jeu</h5>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut laboreLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                     </div>

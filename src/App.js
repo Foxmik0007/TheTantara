@@ -13,8 +13,10 @@ function App() {
     
        <Router>
       <div className="App">
+        <div className='header'>
         <h1>The Tantara</h1>
-        <h3>19 Fevrier 1920</h3>
+        <h4>19 Fevrier 1920</h4>
+        </div>
       <Navigation/>
       <div className="content">
         <Routes>
