@@ -5,6 +5,7 @@ import food from './images/food.PNG'
 const Affaires = () => {
     return (
         <div class="Affaires">
+            <h2>Les petits dossiers du jour</h2>
             <div class="container">
                 <div class="row">
 

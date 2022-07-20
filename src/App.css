@@ -70,7 +70,7 @@
 .header h1{
   
 
-  font-family: Montserrat;
+  font-family: blacktail;
   font-style: italic;
   font-weight:bolder;
   font-size: 5em;
@@ -81,7 +81,7 @@
   background: rgb(235,235,235);
   background: radial-gradient(circle, rgba(235,235,235,1) 31%, rgba(0,0,0,0) 88%);
   color: #707070;
-  font-family: Montserrat;
+  font-family: blacktail;
   font-weight: bold;
 }
 
@@ -124,14 +124,82 @@
   font-family: newspaper;
 }
 
-.Affaires {
-  font-family: Montserrat;
-}
-
 .todayArticles div {
   text-align: justify;
   margin-bottom: 3em;
 }
+
+.ventes {
+  font-family: newspaper;
+}
+
+.ventes b {
+  font-family: blacktail;
+  font-size: 4em;
+}
+
+.ventes h3 {
+  font-family: blacktail;
+}
+
+.ventes h4 {
+  margin-top: 2em;
+}
+
+.ventes li {
+  text-align:justify;
+}
+
+.ventes .caracteristique {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 3em;
+}
+
+.ventes .tendances {
+  margin-left: 3em;
+  margin-right: 3em;
+  display: flex;
+  justify-content: center;
+  text-align: justify;
+}
+
+.ventes .tendances .col {
+  margin-top: 3em;
+}
+
+.Affaires {
+  font-family: Montserrat;
+}
+
+.Affaires h2 {
+  font-family: blacktail;
+  margin-bottom: 1.5em;
+  color: #464660;
+  font-size: 2.5em;
+  border-bottom: 3px solid #464660;
+  display: inline-block;
+}
+
+.Affaires h4 {
+  font-family: CodeProbold;
+  font-size: 1.5em;
+  color: #464660;
+  border-bottom: 3px solid #464660;
+  display: inline-flex;
+}
+
+.Affaires p, .Affaires li {
+  font-family: newspaper;
+  text-align:justify ;
+}
+
+.Affaires h5 {
+  font-family: newspaper;
+  
+}
+
+
 
 .acheter {
   font-size: large;
