@@ -6,7 +6,7 @@ const Achat = () => {
 
     return (
         <div class="acheter">
-            <h3>Voulez vous acheter un modèle papier de ce journal ? Completez le formulaire et vous recevrez votre commande par la poste</h3>
+            <h3>Acheter un journal ?</h3>
             <br></br>           
             <Form>
                 <Form.Group className="mb-3" controlId="firstName">

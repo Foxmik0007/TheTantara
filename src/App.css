@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background-color: #D6D6D6;
+
 }
 
 .App-logo {
@@ -15,7 +15,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+ 
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -48,8 +48,27 @@
   src: url(../fonts/Montserrat/static/Montserrat-Regular.ttf);
 }
 
+@font-face {
+  font-family: CodeProBold;
+  src: url(../fonts/Code/CODE\ Bold.otf);
+}
+
+@font-face {
+  font-family: CodeProLight;
+  src: url(../fonts/Code/CODE\ Light.otf);
+}
+
+@font-face {
+  font-family: newspaper;
+  src: url(../fonts/newspaper/OldNewspaperTypes.ttf);
+}
+
+@font-face {
+  font-family: blacktail;
+  src: url(../fonts/blackTail/Blacktail\ Regular.ttf);
+}
 .header h1{
-  background-color:  #D9D9D9;
+  
 
   font-family: Montserrat;
   font-style: italic;
@@ -59,25 +78,70 @@
 
 .header h4 {
   font-size: 1.6em;
-  background-color:#a3a2a2;
+  background: rgb(235,235,235);
+  background: radial-gradient(circle, rgba(235,235,235,1) 31%, rgba(0,0,0,0) 88%);
+  color: #707070;
+  font-family: Montserrat;
+  font-weight: bold;
 }
 
 .navbar {
-  background-color:#525252;
+
   display: flex;
-  font-family: Montserrat;
   font-weight: 800;
   font-style: italic;
+  margin-bottom: 3.5em;
+  border-bottom: 3px solid #707070;
+  position: fixed;
+  top: 0;
+  width: 100%;
+
 } 
+
+.navbar link {
+  border-radius: 4em;
+}
+
+.todayArticles {
+
+}
+
+.todayArticles h2 {
+  font-family: blacktail;
+  margin-bottom: 1.5em;
+  color: #464660;
+  font-size: 2.5em;
+  border-bottom: 3px solid #464660;
+  display: inline-block;
+}
+
+.todayArticles h5 {
+  font-family: CodeProbold;
+  font-size: 1.5em;
+}
+
+.todayArticles p {
+  font-family: newspaper;
+}
 
 .Affaires {
   font-family: Montserrat;
 }
 
+.todayArticles div {
+  text-align: justify;
+  margin-bottom: 3em;
+}
+
 .acheter {
   font-size: large;
   font-family: Montserrat;
-  margin: 1% 2%;
+  background-color: #707070;
+
+}
+
+.acheter .row {
+  justify-content: center;
 
 }
 

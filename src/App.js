@@ -7,6 +7,7 @@ import Ventes from './components/Ventes';
 import Affaires from './components/Affaires';
 import Acheter from './components/Acheter'
 import Navigation from './navigation';
+import head from './components/images/TitreFR.png'
 
 function App() {
   return (
@@ -14,7 +15,7 @@ function App() {
        <Router>
       <div className="App">
         <div className='header'>
-        <h1>The Tantara</h1>
+        <img src={head} alt="img" width={450}></img>
         <h4>19 Fevrier 1920</h4>
         </div>
       <Navigation/>
