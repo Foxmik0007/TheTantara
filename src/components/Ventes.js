@@ -78,7 +78,7 @@ const Ventes = () => {
                                 Detector created by Guglielmo Marconi. Used during the experimental campaign aboard a ship in summer 1902 <br>
                                 </br> <h5>Prix : 20$</h5> 
                             </Card.Text>
-                            <Button variant="dark">Buy</Button>
+                            <Button variant="dark">Acheter</Button>
                         </Card.Body>
                     </Card></div>
                     <div class="col"><Card style={{ width: '18rem' }}>
@@ -90,7 +90,7 @@ const Ventes = () => {
                                 the card's content.
                                 <br></br> <h5>Prix : 20$</h5>  
                             </Card.Text>
-                            <Button variant="dark">Buy</Button>
+                            <Button variant="dark">Acheter</Button>
                         </Card.Body>
                     </Card></div>
                     <div class="col"><Card style={{ width: '18rem' }}>
@@ -102,7 +102,7 @@ const Ventes = () => {
                                 the card's content.
                                 <br></br> <h5>Prix : 20$</h5>  
                             </Card.Text>
-                            <Button variant="dark">Buy</Button>
+                            <Button variant="dark">Acheter</Button>
                         </Card.Body>
                     </Card></div>
                     <div class="col"><Card style={{ width: '18rem' }}>
@@ -114,7 +114,7 @@ const Ventes = () => {
                                 the card's content.
                                 <br></br> <h5>Prix : 20$</h5>  
                             </Card.Text>
-                            <Button variant="dark">Buy</Button>
+                            <Button variant="dark">Acheter</Button>
                         </Card.Body>
                     </Card></div>
                     <div class="col"><Card style={{ width: '18rem' }}>
@@ -126,7 +126,7 @@ const Ventes = () => {
                                 the card's content.
                                 <br></br> <h5>Prix : 20$</h5>  
                             </Card.Text>
-                            <Button variant="dark">Buy</Button>
+                            <Button variant="dark">Acheter</Button>
                         </Card.Body>
                     </Card></div>
                     <div class="col"><Card style={{ width: '18rem' }}>
@@ -138,7 +138,7 @@ const Ventes = () => {
                                 the card's content.
                                 <br></br> <h5>Prix : 20$</h5>  
                             </Card.Text>
-                            <Button variant="dark">Buy</Button>
+                            <Button variant="dark">Acheter</Button>
                         </Card.Body>
                     </Card></div>
                     <div class="col"><Card style={{ width: '18rem' }}>
@@ -149,7 +149,7 @@ const Ventes = () => {
                                 Detector created by Guglielmo Marconi. Used during the experimental campaign aboard a ship in summer 1902 <br>
                                 </br> <h5>Prix : 20$</h5> 
                             </Card.Text>
-                            <Button variant="dark">Buy</Button>
+                            <Button variant="dark">Acheter</Button>
                         </Card.Body>
                     </Card></div>
                     <div class="col"><Card style={{ width: '18rem' }}>
@@ -160,7 +160,7 @@ const Ventes = () => {
                                 Detector created by Guglielmo Marconi. Used during the experimental campaign aboard a ship in summer 1902 <br>
                                 </br> <h5>Prix : 20$</h5> 
                             </Card.Text>
-                            <Button variant="dark">Buy</Button>
+                            <Button variant="dark">Acheter</Button>
                         </Card.Body>
                     </Card></div>
                     <div class="col"><Card style={{ width: '18rem' }}>
@@ -171,7 +171,7 @@ const Ventes = () => {
                                 Detector created by Guglielmo Marconi. Used during the experimental campaign aboard a ship in summer 1902 <br>
                                 </br> <h5>Prix : 20$</h5> 
                             </Card.Text>
-                            <Button variant="dark">Buy</Button>
+                            <Button variant="dark">Acheter</Button>
                         </Card.Body>
                     </Card></div>
                     <div class="col"><Card style={{ width: '18rem' }}>
@@ -182,7 +182,7 @@ const Ventes = () => {
                                 Detector created by Guglielmo Marconi. Used during the experimental campaign aboard a ship in summer 1902 <br>
                                 </br> <h5>Prix : 20$</h5> 
                             </Card.Text>
-                            <Button variant="dark">Buy</Button>
+                            <Button variant="dark">Acheter</Button>
                         </Card.Body>
                     </Card></div>
                     <div class="col"><Card style={{ width: '18rem' }}>
@@ -193,7 +193,7 @@ const Ventes = () => {
                                 Detector created by Guglielmo Marconi. Used during the experimental campaign aboard a ship in summer 1902 <br>
                                 </br> <h5>Prix : 20$</h5> 
                             </Card.Text>
-                            <Button variant="dark">Buy</Button>
+                            <Button variant="dark">Acheter</Button>
                         </Card.Body>
                     </Card></div>
                 </div>

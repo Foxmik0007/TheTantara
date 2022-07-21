@@ -3,6 +3,9 @@ import events2 from './images/events2.jpg'
 import events3 from './images/events3.PNG'
 import events4 from './images/events4.jpg'
 import events5 from './images/events5.jpg'
+import events6 from './images/drugs.jpg'
+import events7 from './images/mosley.jpg'
+
 
 const Articles = () => {
     return (
@@ -56,6 +59,34 @@ const Articles = () => {
                             <p style={{textAlign:'right'}}>
                                 - Anonymous
                             </p>
+                        </div>
+                        <div class="row">
+                        <div class="col">
+                        <h5>Sed ut perspiciatis unde omnis iste natus error</h5>
+                            <img src={events6} alt="img" width={600}></img>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in 
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                            </p>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in 
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                            </p>
+                            <p style={{textAlign:'right'}}>
+                                - Edison
+                            </p>
+                        </div>
+                    
+
+                  
+                        <div class="col-sm">
+                            <h5>Sed ut perspiciatis unde omnis iste natus error</h5>
+                            <img src={events7} alt="img" width={400}></img>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in 
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                            </p>
+                            <p style={{textAlign:'right'}}>
+                                - Mr Jack
+                            </p>
+                            </div>
                         </div>
                     </div>
                 </div>

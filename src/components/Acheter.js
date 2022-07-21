@@ -5,32 +5,14 @@ import {useState} from 'react';
 
 const Achat = () => {
 
-    const [message, setMessage] = useState('');
-  const [error, setError] = useState(null);
-
     // Validation numero de telephone
     const handleChangePhoneNumber =(e)=>{
         if(e.target.value.length>10){ 
-            
+            window.alert("email shouldn't exceed 10, Please Re-enter");
             e.target.value = "";
         }
     }
     
-    // Validation email
-    function isValidEmail(email) {
-        return /\S+@\S+\.\S+/.test(email);
-    }
-    
-    //ToDo : Handle tooltip visibility
-    const handleChange = event => {
-        if (!isValidEmail(event.target.value)) {
-            window.alert("email shouldn't exceed 10, Please Re-enter")
-        } else {
-          setError(null);
-        }
-        
-    setMessage(event.target.value);
-};
 
     return (
         <div class="acheter">
@@ -61,8 +43,8 @@ const Achat = () => {
                 <Form.Group className="mb-3" controlId="email">
                     <div class="row">
                         <div class="col-2"> <Form.Label><b>Email : </b></Form.Label></div>
-                        <div class="col-6"><Form.Control type="text" onChange={handleChange}/></div>
-                        <span class="tooltiptext">Tooltip text</span>
+                        <div class="col-6"><Form.Control type="text"/></div>
+                    
                     </div>
                 </Form.Group>
 
@@ -84,6 +66,7 @@ const Achat = () => {
                     Submit
                 </Button>
             </Form>
+            
         </div>
     );
 }
