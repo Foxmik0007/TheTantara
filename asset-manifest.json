@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.27c3a87d.css",
-    "main.js": "/static/js/main.95ab8e63.js",
+    "main.js": "/static/js/main.587ddbf8.js",
     "static/js/787.c5d382b4.chunk.js": "/static/js/787.c5d382b4.chunk.js",
     "static/media/events2.jpg": "/static/media/events2.5e0ea31a83ba4fc0139c.jpg",
     "static/media/4.png": "/static/media/4.cdb7b106b78e1bf72e40.png",
@@ -22,6 +22,7 @@
     "static/media/events5.jpg": "/static/media/events5.ab7ae4113ebd4319ba6a.jpg",
     "static/media/events1.PNG": "/static/media/events1.4af52e7f0c5537752bf8.PNG",
     "static/media/horoscope.png": "/static/media/horoscope.84d85b8d71c3e7d71046.png",
+    "static/media/drugs.jpg": "/static/media/drugs.6b3739219fdbf1a31c72.jpg",
     "static/media/marconi radio.PNG": "/static/media/marconi radio.70258ac4ddfec0f8ea5e.PNG",
     "static/media/bike.jpg": "/static/media/bike.6682c37d341f9f950d8d.jpg",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.ac98a5f5ca71180fe293.ttf",
@@ -32,6 +33,7 @@
     "static/media/Blacktail Regular.ttf": "/static/media/Blacktail Regular.6ec4a7e0b5267099b4e6.ttf",
     "static/media/TitreFR.png": "/static/media/TitreFR.0de401843c23ffe6de81.png",
     "static/media/radio.jpg": "/static/media/radio.acc5d2d2f9d6e94e7812.jpg",
+    "static/media/mosley.jpg": "/static/media/mosley.1a13f5f6e5d845422ef2.jpg",
     "static/media/pipe.jpg": "/static/media/pipe.f4d13af6f05cd1b2733a.jpg",
     "static/media/coudre.jpg": "/static/media/coudre.14edc819b38d420632b4.jpg",
     "static/media/CODE Bold.otf": "/static/media/CODE Bold.2ade8685d0e7475fd8a9.otf",
@@ -46,11 +48,11 @@
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.27c3a87d.css.map": "/static/css/main.27c3a87d.css.map",
-    "main.95ab8e63.js.map": "/static/js/main.95ab8e63.js.map",
+    "main.587ddbf8.js.map": "/static/js/main.587ddbf8.js.map",
     "787.c5d382b4.chunk.js.map": "/static/js/787.c5d382b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.27c3a87d.css",
-    "static/js/main.95ab8e63.js"
+    "static/js/main.587ddbf8.js"
   ]
 }
