@@ -11,13 +11,15 @@ import head from './components/images/TitreFR.png'
 
 function App() {
   return (
-    
+    <html lang='fr'>
        <Router>
       <div className="App">
         <div className='header'>
         <img src={head} alt="img" width={450}></img>
         <h4>19 Fevrier 1920</h4>
-        </div>
+          </div>
+          
+          
       <Navigation/>
       <div className="content">
         <Routes>
@@ -30,7 +32,8 @@ function App() {
         </Routes>
         </div>
     </div>
-    </Router>
+      </Router>
+      </html>
   );
 }
 
