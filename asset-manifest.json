@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.27c3a87d.css",
-    "main.js": "/static/js/main.587ddbf8.js",
+    "main.css": "/static/css/main.55c05e05.css",
+    "main.js": "/static/js/main.ad8354d7.js",
     "static/js/787.c5d382b4.chunk.js": "/static/js/787.c5d382b4.chunk.js",
     "static/media/events2.jpg": "/static/media/events2.5e0ea31a83ba4fc0139c.jpg",
     "static/media/4.png": "/static/media/4.cdb7b106b78e1bf72e40.png",
@@ -39,6 +39,7 @@
     "static/media/CODE Bold.otf": "/static/media/CODE Bold.2ade8685d0e7475fd8a9.otf",
     "static/media/CODE Light.otf": "/static/media/CODE Light.1efa185f79586f80d777.otf",
     "static/media/events4.jpg": "/static/media/events4.4dda6b66441a446f46e9.jpg",
+    "static/media/creationLogo.png": "/static/media/creationLogo.d3d38a9aacce7fc823af.png",
     "static/media/lampe.jpg": "/static/media/lampe.e9aa46789065644b93d2.jpg",
     "static/media/AffairesLogo.png": "/static/media/AffairesLogo.717e0fe986b7a2036751.png",
     "static/media/BuyNewspaper.png": "/static/media/BuyNewspaper.b78b3bdcd534b0bdd33c.png",
@@ -47,12 +48,12 @@
     "static/media/ShoppingLogo.png": "/static/media/ShoppingLogo.94c4688f175867eb2b66.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.27c3a87d.css.map": "/static/css/main.27c3a87d.css.map",
-    "main.587ddbf8.js.map": "/static/js/main.587ddbf8.js.map",
+    "main.55c05e05.css.map": "/static/css/main.55c05e05.css.map",
+    "main.ad8354d7.js.map": "/static/js/main.ad8354d7.js.map",
     "787.c5d382b4.chunk.js.map": "/static/js/787.c5d382b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.27c3a87d.css",
-    "static/js/main.587ddbf8.js"
+    "static/css/main.55c05e05.css",
+    "static/js/main.ad8354d7.js"
   ]
 }
