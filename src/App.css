@@ -225,4 +225,24 @@
 
 }
 
+.Creer{
+  display: flex;
+  justify-content: center;
+   
+}
+
+.Creer input, .Creer textarea, .Creer .cselect {
+  width: 60vw;
+  border-radius: 20px;
+  background-color: #f5f5f5 ;
+}
+
+.Creer img {
+  border-radius: 14px;
+}
+
+.Creer {
+  font-family: newspaper;
+
+}
 

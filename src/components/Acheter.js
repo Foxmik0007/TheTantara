@@ -43,7 +43,7 @@ const Achat = () => {
                 <Form.Group className="mb-3" controlId="email">
                     <div class="row">
                         <div class="col-2"> <Form.Label><b>Email : </b></Form.Label></div>
-                        <div class="col-6"><Form.Control type="text"/></div>
+                        <div class="col-6"><Form.Control type="email"/></div>
                     
                     </div>
                 </Form.Group>
@@ -63,7 +63,7 @@ const Achat = () => {
                 </Form.Group>
 
                 <Button variant="dark" type="submit" >
-                    Submit
+                    Acheter
                 </Button>
             </Form>
             

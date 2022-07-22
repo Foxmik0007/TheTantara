@@ -5,6 +5,7 @@ import Articles from './components/images/ArticlesLogo.png'
 import ventes from './components/images/ShoppingLogo.png'
 import Affaires from './components/images/AffairesLogo.png'
 import Buy from './components/images/BuyNewspaper.png'
+import creation from './components/images/creationLogo.png'
 
 const Navigation = () => {
 
@@ -62,6 +63,12 @@ const Navigation = () => {
         <div>
         <Link to="/Acheter" style={linkStyle} onMouseOver={MouseOver} onMouseOut={MouseOut}>
         <img src={Buy} alt="img" width={300}></img>
+    </Link>
+        </div>
+
+        <div>
+        <Link to="/Creation" style={linkStyle} onMouseOver={MouseOver} onMouseOut={MouseOut}>
+        <img src={creation} alt="img" width={300}></img>
     </Link>
         </div>
         

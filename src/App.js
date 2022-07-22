@@ -5,7 +5,8 @@ import Articles from './components/Articles';
 import Home from './components/Home';
 import Ventes from './components/Ventes';
 import Affaires from './components/Affaires';
-import Acheter from './components/Acheter'
+import Acheter from './components/Acheter';
+import Creer from './components/creation';
 import Navigation from './navigation';
 import head from './components/images/TitreFR.png'
 
@@ -27,7 +28,8 @@ function App() {
             <Route path="/Articles" element={<Articles />} />
             <Route path="/Ventes" element={<Ventes/>} />
             <Route path="/Affaires" element={<Affaires />} />
-            <Route path="/Acheter" element={<Acheter/>} />
+              <Route path="/Acheter" element={<Acheter />} />
+              <Route path="/Creation" element={<Creer/>} />
             <Route path="/*" element={<Home/>} />
         </Routes>
         </div>

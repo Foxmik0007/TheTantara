@@ -8,6 +8,11 @@ import events7 from './images/mosley.jpg'
 
 
 const Articles = () => {
+
+    const zoom =(e)=>{
+        
+        }
+
     return (
         <div className="todayArticles">
             <h2>Les Articles du jour</h2>
