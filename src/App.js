@@ -17,7 +17,7 @@ function App() {
       <div className="App">
         <div className='header'>
         <img src={head} alt="img" width={450}></img>
-        <h4>19 Fevrier 1920</h4>
+        <h4>Edition du XXe Siecle</h4>
           </div>
           
           
