@@ -1,20 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.55c05e05.css",
-    "main.js": "/static/js/main.d34c6dd0.js",
+    "main.css": "/static/css/main.bfcc85b0.css",
+    "main.js": "/static/js/main.6db9ba5f.js",
     "static/js/787.c5d382b4.chunk.js": "/static/js/787.c5d382b4.chunk.js",
     "static/media/events2.jpg": "/static/media/events2.5e0ea31a83ba4fc0139c.jpg",
-    "static/media/4.png": "/static/media/4.cdb7b106b78e1bf72e40.png",
     "static/media/events3.PNG": "/static/media/events3.7811f2395e47dffdb5f3.PNG",
     "static/media/food.PNG": "/static/media/food.10042a5ee4c5d27251f2.PNG",
     "static/media/writingmachine.PNG": "/static/media/writingmachine.0196982d14764ab9601e.PNG",
-    "static/media/3.png": "/static/media/3.197b6971f57084127986.png",
     "static/media/camera.PNG": "/static/media/camera.ba39a356226dfb29212a.PNG",
     "static/media/ford model T -rear.PNG": "/static/media/ford model T -rear.64168c1597ab9a589044.PNG",
     "static/media/5.png": "/static/media/5.c6f37c661fdc3a08f494.png",
     "static/media/alarm.PNG": "/static/media/alarm.6f35bff44e57515eeb9b.PNG",
     "static/media/fashion.PNG": "/static/media/fashion.9bb66ef5dac570816749.PNG",
-    "static/media/1.png": "/static/media/1.2130054b9da994d05add.png",
     "static/media/FordFront.PNG": "/static/media/FordFront.6b718b767b7db05ccee4.PNG",
     "static/media/2.png": "/static/media/2.f9fd6abbce76c39e7606.png",
     "static/media/ford model T - up.PNG": "/static/media/ford model T - up.bfc86acd827bf160a80d.PNG",
@@ -28,6 +25,7 @@
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.ac98a5f5ca71180fe293.ttf",
     "static/media/phone.jpg": "/static/media/phone.ea99a8af6f26d0a8ca32.jpg",
     "static/media/mode1900.jpg": "/static/media/mode1900.a270e87de60c2d636c04.jpg",
+    "static/media/events4.jpg": "/static/media/events4.b4fe6828227247d72e1f.jpg",
     "static/media/OldNewspaperTypes.ttf": "/static/media/OldNewspaperTypes.db3851a38ae93f4cc91f.ttf",
     "static/media/Oregano-Regular.ttf": "/static/media/Oregano-Regular.585a6de7a01d6452960e.ttf",
     "static/media/gramophone.jpg": "/static/media/gramophone.f5a941f6d8443aea8902.jpg",
@@ -40,7 +38,6 @@
     "static/media/coudre.jpg": "/static/media/coudre.14edc819b38d420632b4.jpg",
     "static/media/CODE Bold.otf": "/static/media/CODE Bold.2ade8685d0e7475fd8a9.otf",
     "static/media/CODE Light.otf": "/static/media/CODE Light.1efa185f79586f80d777.otf",
-    "static/media/events4.jpg": "/static/media/events4.4dda6b66441a446f46e9.jpg",
     "static/media/creationLogo.png": "/static/media/creationLogo.d3d38a9aacce7fc823af.png",
     "static/media/lampe.jpg": "/static/media/lampe.e9aa46789065644b93d2.jpg",
     "static/media/AffairesLogo.png": "/static/media/AffairesLogo.717e0fe986b7a2036751.png",
@@ -51,12 +48,12 @@
     "static/media/ShoppingLogo.png": "/static/media/ShoppingLogo.94c4688f175867eb2b66.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.55c05e05.css.map": "/static/css/main.55c05e05.css.map",
-    "main.d34c6dd0.js.map": "/static/js/main.d34c6dd0.js.map",
+    "main.bfcc85b0.css.map": "/static/css/main.bfcc85b0.css.map",
+    "main.6db9ba5f.js.map": "/static/js/main.6db9ba5f.js.map",
     "787.c5d382b4.chunk.js.map": "/static/js/787.c5d382b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.55c05e05.css",
-    "static/js/main.d34c6dd0.js"
+    "static/css/main.bfcc85b0.css",
+    "static/js/main.6db9ba5f.js"
   ]
 }
