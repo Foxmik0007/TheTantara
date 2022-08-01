@@ -115,6 +115,19 @@
   border-radius: 20px;
 }
 
+.title .TitresDuJour {
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+.title h1 {
+  font-family: blacktail;
+}
+
+.title .article {
+  width:31em;
+}
 
 .todayArticles {
 
